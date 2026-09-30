@@ -3,6 +3,9 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Feast | Indulge the Crunch",
+  icons: {
+    icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
+  },
   description:
     "Experience Feast — the ultimate chocolate-coated ice cream bar loaded with crunchy roasted nuts and a velvety chocolate ice cream center. Indulge the crunch.",
   keywords: [
